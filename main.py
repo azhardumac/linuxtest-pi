@@ -6,7 +6,11 @@
 
 
 def test(msg):
+
 // different comment different
+
+    // Print a message
+
     print(msg)
 
 test("test text hehe")
