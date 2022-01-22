@@ -6,8 +6,9 @@
 
 
 def test(msg):
+// different comment different
     print(msg)
-    
+
 test("test text hehe")
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
