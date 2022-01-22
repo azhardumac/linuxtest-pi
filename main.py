@@ -6,6 +6,7 @@
 
 
 def test(msg):
+    // Print a message
     print(msg)
     
 test("test text hehe")
